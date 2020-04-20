@@ -1,0 +1,100 @@
+Action | Military | Adventure | Comedy | Drama | Magic | Fantasy | Shounen
+Thriller | Sci-Fi
+Action | Comedy | Historical | Parody | Samurai | Sci-Fi | Shounen
+Action | Adventure | Fantasy | Shounen | Super Power
+Military | Sci-Fi | Space | Drama
+Action | Sci-Fi | Comedy | Historical | Parody | Samurai | Shounen
+Action | Drama | Fantasy | Military | Mystery | Shounen | Super Power
+Romance | Supernatural | School | Drama
+Action | Comedy | Historical | Parody | Samurai | Sci-Fi | Shounen
+Drama | Game | Seinen | Slice of Life
+Drama | School | Shounen
+Action | Sci-Fi | Comedy | Historical | Parody | Samurai | Shounen
+Action | Comedy | Historical | Parody | Samurai | Sci-Fi | Shounen
+Slice of Life | Comedy | Supernatural | Drama | Romance
+Action | Comedy | Historical | Parody | Samurai | Sci-Fi | Shounen
+Comedy | Sports | Drama | School | Shounen
+Mystery | Comedy | Supernatural | Vampire
+Action | Military | Sci-Fi | Super Power | Drama | Mecha
+Action | Slice of Life | Comedy | Supernatural
+Adventure | Supernatural | Drama
+Action | Demons | Historical | Shounen | Supernatural
+Action | Comedy | Historical | Parody | Samurai | Sci-Fi | Shounen
+Comedy | Sports | Drama | School | Shounen
+Action | Mystery | Supernatural | Vampire
+Drama | Music | Romance | School | Shounen
+Sci-Fi | Adventure | Mystery | Drama | Fantasy
+Drama | Historical | Josei
+Action | Adventure | Comedy | Drama | Sci-Fi | Space
+Action | Sci-Fi | Comedy | Historical | Parody | Samurai | Shounen
+Adventure | Fantasy | Historical | Mystery | Seinen | Slice of Life | Supernatural
+Comedy | Psychological | Romance | School | Seinen
+Mystery | Comedy | Supernatural | Romance | Vampire
+Action | Adventure | Drama | Historical | Seinen
+Comedy | Sports | Drama | Shounen
+Sci-Fi | Adventure | Mystery | Drama | Fantasy
+Action | Adventure | Fantasy
+Action | Historical | Drama | Romance | Martial Arts | Samurai | Shounen
+Action | Military | Sci-Fi | Super Power | Drama | Mecha | School
+Adventure | Slice of Life | Mystery | Historical | Supernatural | Fantasy | Seinen
+Slice of Life | Comedy | Drama | School | Shounen
+Drama | Horror | Mystery | Police | Psychological | Seinen | Thriller
+Adventure | Slice of Life | Mystery | Historical | Supernatural | Fantasy | Seinen
+Comedy | Romance | School
+Comedy | Sports | Drama | Shounen
+Slice of Life | Demons | Supernatural | Drama | Shoujo
+Action | Adventure | Comedy | Mecha | Sci-Fi
+Adventure | Drama | Fantasy | Romance
+Action | Adventure | Shounen
+Slice of Life | Demons | Supernatural | Drama | Shoujo
+Fantasy | Slice of Life
+Comedy | Mystery | Romance | School | Sci-Fi | Supernatural
+Sci-Fi | Mystery | Horror | Psychological | Thriller | Shounen
+Action | Drama | Shounen | Slice of Life | Sports
+Action | Fantasy | Magic | Supernatural
+Adventure | Comedy | Fantasy | Magic | Parody | Supernatural
+Adventure | Fantasy | Historical | Mystery | Seinen | Slice of Life | Supernatural
+Action | Sci-Fi | Comedy | Parody | Super Power | Supernatural
+Action | Mystery | Supernatural | Vampire
+Drama | Psychological | Seinen | Sports
+Comedy | Drama | Romance | Shounen
+Mystery | Police | Psychological | Supernatural | Thriller | Shounen
+Slice of Life | Drama | Fantasy
+Game | Slice of Life | Sports | Drama | School | Josei
+Action | Supernatural | Magic | Fantasy
+Comedy | Sports | Drama | Shounen
+Slice of Life | Demons | Supernatural | Drama | Shoujo
+Mystery | Comedy | Psychological | Romance
+Comedy | Sports | Drama | School | Shounen
+Slice of Life | Demons | Supernatural | Drama | Shoujo
+Drama | Historical | Josei
+Adventure | Comedy
+Drama
+Adventure | Slice of Life | Mystery | Historical | Supernatural | Fantasy | Seinen
+Action | Comedy | School | Shounen
+Action | Mystery | Supernatural | Drama | Romance | Thriller
+Action | Mecha | Sci-Fi | Space | Super Power
+Slice of Life | Drama | Romance | Fantasy
+Slice of Life | Demons | Supernatural | Drama | Shoujo
+Action | Adventure | Comedy | Supernatural | Drama | Shounen
+Sci-Fi | Slice of Life | Fantasy | Shounen
+Mystery | Comedy | Supernatural | Vampire
+Action | Military | Historical | Seinen
+Action | Adventure | Mystery | Comedy | Historical | Supernatural
+Slice of Life | Comedy | Supernatural | School | Shounen
+Action | Comedy | Super Power | School | Shounen
+Action | Military | Sci-Fi | Mystery | Police | Mecha | Seinen
+Action | Sci-Fi | Comedy | Historical | Parody | Samurai | Shounen
+Comedy | Sports | Drama | School | Shounen
+Action | Adventure | Supernatural | Drama | Shounen
+Drama | Historical | Seinen | Thriller
+Comedy | Sci-Fi | Seinen | Slice of Life | Space
+Action | Sci-Fi | Comedy | Historical | Parody | Samurai | Shounen
+Comedy | Sports | Drama | School | Shounen
+Sci-Fi | Thriller
+Sci-Fi | Drama
+Drama | Historical
+Comedy | Sports | Drama
+Action | Slice of Life | Comedy | Supernatural
+Sci-Fi | Dementia | Psychological | Drama | Mecha
+Action | Comedy | School | Shounen | Super Power
